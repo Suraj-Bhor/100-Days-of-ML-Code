@@ -2,10 +2,10 @@
 ### Today's Progress:
 * Brushed up the basics of Linear Algebra.
 * Implemented Linear Regression with one variable using Gradient Descent referring Andrew Ng's Stanford ML course.
-### Link of Work
+### Link of Work [Link](https://github.com/Suraj-Bhor/100-Days-of-ML-Code/blob/master/Work/ex1.m)
 
 
 ## Day 2: 8<sup>th</sup> July 2018, Sunday
 ### Today's Progress;
 * Implemented Linear Regression with multiple variables using Gradient Descent and Normal equation.
-### Link of Work
+### Link of Work [Link](https://github.com/Suraj-Bhor/100-Days-of-ML-Code/blob/master/Work/ex1_multi.m)
