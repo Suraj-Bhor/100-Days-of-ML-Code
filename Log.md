@@ -20,3 +20,9 @@
     * Logit function and Logistic Regression Model
     * Hypothesis Representation
     * Linear and Non-Linear decision boundaries
+    
+## Day 5: 11<sup>th</sup> July 2018, Wednesday
+### Today's Progress:
+* Went through the theory of Logistic Regression for two class classification problem and learnt things regarding:
+    * Logistic Regression Cost function
+    * Gradient descent for optimizing the cost function
