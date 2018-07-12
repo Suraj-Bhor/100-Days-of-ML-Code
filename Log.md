@@ -26,3 +26,9 @@
 * Went through the theory of Logistic Regression for two class classification problem and learnt things regarding:
     * Logistic Regression Cost function
     * Gradient descent for optimizing the cost function
+
+## Day 6: 12<sup>th</sup> July 2018, Thursday
+### Today's Progress:
+* Learnt about different advanced optimization algorithms(e.g Conjugate gradient, BFGS),which are better than gradient descent.
+* Understood vectorized implementation of Logistic Regression.
+* Went through the theory of Multi-Class Logistic Regression for classification.
