@@ -10,4 +10,4 @@
 * Completed the two programming exercises of [Neural Networks and Deep Learning course](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome).
 * Implemented a 2-layer and 4-layer fully connected feed forward neural network for classifying cats vs non-cats images.
 * Learnt about the vectorized implementation of entire neural net model.
-* Earned a [certificate](https://coursera.org/share/7e8f6ad4a496cda70f137c9371f713f7) for completing the course.
+* Earned a [certificate](https://www.coursera.org/account/accomplishments/records/ZS8W2LCVSHM5) for completing the course.
