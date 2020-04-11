@@ -2,7 +2,7 @@
 100 Days of ML Code is a commitment to better my understanding of Machine Learning by dedicating at least 1 hour of my time everyday to studying and/or coding machine learning for 100 days.
 
 ## Day 1: 9<sup>th</sup> April 2020 : Deep Neural Networks
-* Watched all videos of week 4 of [Neural Networks and Deep Learning course](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) by Andrew Ng. 
+* Watched all videos of week 4 of [Neural Networks and Deep Learning course](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) by Prof. Andrew Ng. 
 * Learnt about the forward and backward propagation along with its vectorized implementations for deep neural nets.
 * Learnt about the hyperparameter tuning for complex neural nets.
 
@@ -11,3 +11,15 @@
 * Implemented a 2-layer and 4-layer fully connected feed forward neural network for classifying cats vs non-cats images.
 * Learnt about the vectorized implementation of entire neural net model.
 * Earned a [certificate](https://www.coursera.org/account/accomplishments/records/ZS8W2LCVSHM5) for completing the course.
+
+## Day 3: 11<sup>th</sup> April 2020 : Regularization and hyperparameter tuning.
+* Started with the [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) course taught by Prof. Andrew Ng.
+* Went through the week 1 videos and learnt:
+  * Splitting dataset into train, development/cross validation and test sets.
+  * Bias/Variance and their tradeoff.
+  * L2 regularization/Frobenius Norm and how does regularization help in reducing high variance.
+  * Dropout regularization (Inverted dropout technique).
+  * Data Augmentation, early stopping and other regularization techniques.
+  * Also learnt about why need to normalize training sets.
+* Also to better understand maths for deep learning, revised the concepts of linear algebra by watching videos of 3 Blue 1 Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist.
+* The videos give fantastic intuition about the vectors and matrix transformations and are illustrated beautifully.
