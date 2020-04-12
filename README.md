@@ -23,3 +23,9 @@
   * Also learnt about why need to normalize training sets.
 * Also to better understand maths for deep learning, revised the concepts of linear algebra by watching videos of 3 Blue 1 Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist.
 * The videos give fantastic intuition about the vectors and matrix transformations and are illustrated beautifully.
+
+## Day 4: 12<sup>th</sup> April 2020 : Implementation of different types of regularization
+* Implemented different types of weights initialization methods like zero initialization, random initialization and He initialization and its effects on binary classification.
+* Implemented L2 regularization and dropout regularization from scratch and understood its uses for reducing overfitting.
+* Understood the concept of gradient checking and implemented it to check whether the backpropagation is computing correct gradients.
+* Went through the videos of 3 Blue 1 Brown's essence of linear algebra and got to know about inituition of determinants in matrices.
