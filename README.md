@@ -29,3 +29,13 @@
 * Implemented L2 regularization and dropout regularization from scratch and understood its uses for reducing overfitting.
 * Understood the concept of gradient checking and implemented it to check whether the backpropagation is computing correct gradients.
 * Went through the videos of 3 Blue 1 Brown's essence of linear algebra and got to know about inituition of determinants in matrices.
+
+## Day 5: 13<sup>th</sup> April 2020 : Optimization Algorithms
+* Watched the week 2 course videos and learnt about different optimization algorithms like:
+  * Mini-batch gradient descent
+  * Stochastic gradient descent
+  * Gradient Descent Momentum 
+  * RMSprop
+  * Adam Optimization Algorithm
+* Learnt about exponentially weighted averages along with bias correction.
+* Understood the how learning decay works and also learnt how problem of local optima, saddle point and problem of plateaus occur while training deep neural networks.
