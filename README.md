@@ -38,4 +38,4 @@
   * RMSprop
   * Adam Optimization Algorithm
 * Learnt about exponentially weighted averages along with bias correction.
-* Understood the how learning decay works and also learnt how problem of local optima, saddle point and problem of plateaus occur while training deep neural networks.
+* Understood how learning decay works and also learnt how problem of local optima, saddle point and problem of plateaus occur while training deep neural networks.
