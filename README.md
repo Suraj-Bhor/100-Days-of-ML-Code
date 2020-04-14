@@ -39,3 +39,7 @@
   * Adam Optimization Algorithm
 * Learnt about exponentially weighted averages along with bias correction.
 * Understood how learning decay works and also learnt how problem of local optima, saddle point and problem of plateaus occur while training deep neural networks.
+
+## Day 6: 14<sup>th</sup> April 2020 : Implementation of Optimization Algorithms
+* Implemented Mini-batch Gradient Descent, Gradient Descent Momentum and Adam Optimization Algorithm from scratch.
+* Also understood the difference it makes in choosing the right optimization algorithm.
