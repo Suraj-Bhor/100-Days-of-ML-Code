@@ -43,3 +43,11 @@
 ## Day 6: 14<sup>th</sup> April 2020 : Implementation of Optimization Algorithms
 * Implemented Mini-batch Gradient Descent, Gradient Descent Momentum and Adam Optimization Algorithm from scratch.
 * Also understood the difference it makes in choosing the right optimization algorithm.
+
+## Day 7: 15<sup>th</sup> April 2020 : Batch Normalization and Softmax Classifier
+* Went through the week 3 videos of course 2 of deep learning specialization.
+* Learnt about hyperparameter tuning and appropriate sampling of hyperparameters.
+* Understood the concept of Batch Normalization for speeding up the learning process and also learnt how to implement batch normalization for deep neural networks.
+* Also got to know how to use batch norm at testing time.
+* Learnt about softmax regression and understood the loss function for softmax classifier.
+* Learnt about few TensorFlow functions for implementing forward and backward pass.
