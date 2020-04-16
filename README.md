@@ -51,3 +51,8 @@
 * Also got to know how to use batch norm at testing time.
 * Learnt about softmax regression and understood the loss function for softmax classifier.
 * Learnt about few TensorFlow functions for implementing forward and backward pass.
+
+## Day 8: 16<sup>th</sup> April 2020 : Iplementation of hand signs classifier in TensorFlow.
+* Learnt the basics of TensorFlowv1.0. e.g placeholders, constants, variables, sessions, operations like tf.add, tf.matmul, tf.nn etc.
+* Implemented a neural network using TensorFlow for classifying hand signs with accuracy of 72%.
+* Completed with the course 2 of deep learning specialization and earned a [certificate](https://www.coursera.org/account/accomplishments/records/6JGSS9EHMCTV).
