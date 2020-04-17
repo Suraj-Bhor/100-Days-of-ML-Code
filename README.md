@@ -56,3 +56,14 @@
 * Learnt the basics of TensorFlowv1.0. e.g placeholders, constants, variables, sessions, operations like tf.add, tf.matmul, tf.nn etc.
 * Implemented a neural network using TensorFlow for classifying hand signs with accuracy of 72%.
 * Completed with the course 2 of deep learning specialization and earned a [certificate](https://www.coursera.org/account/accomplishments/records/6JGSS9EHMCTV).
+
+## Day 9: 17<sup>th</sup> April 2020 : Structuring Machine Learning Projects
+* Started with the [course 3](https://www.coursera.org/learn/machine-learning-projects/home/welcome) of Deep learning specialization.
+* Finished with the week 1 videos and assignment and learnt about the following concepts.
+  * Orthogonalization concept.
+  * Single number evaluation metric and also about satisficing and optimizing metric.
+  * Splitting of Train/Dev/Test sets.
+  * Comparing human-level performance to the neural network performance.
+  * Avodiable bias and measure of variance.
+  * Surpassing human-level performance.
+  * Improving model performance.
