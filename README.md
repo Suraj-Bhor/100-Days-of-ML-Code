@@ -67,3 +67,15 @@
   * Avodiable bias and measure of variance.
   * Surpassing human-level performance.
   * Improving model performance.
+  
+  ## Day 10: 18<sup>th</sup> April 2020 : Transfer Learning and Multi-task learning
+* Finished with the Structuring Machine Learning Projects course.
+* Went through week 2 videos and learnt about the following concepts.
+  * Carrying out error analysis.
+  * Cleaning up incorrectly labeled data.
+  * Training and testing on different distributions.
+  * Bias and variance with mis-matched data distribution.
+  * Transfer Learning.
+  * Multi-task learning.
+  * End-to-end Deep Learning.
+* Earned course [certificate](https://www.coursera.org/account/accomplishments/records/PJJ7B368V36R).
