@@ -79,3 +79,14 @@
   * Multi-task learning.
   * End-to-end Deep Learning.
 * Earned course [certificate](https://www.coursera.org/account/accomplishments/records/PJJ7B368V36R).
+
+  ## Day 11: 19<sup>th</sup> April 2020 : Convolutional Neural Networks
+* Started with the [course 4](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) (Convolutional Neural Networks) of the Deep Learning Specialization.
+* Finished week 1 videos and learnt about the following concepts.
+  * Edge detection using various filters on gray-scale as well as RGB images.
+  * Concept of padding and why it is used.
+  *  Strided convolutions.
+  * Convolutions over volumes i.e. on RGB images.
+  * Deep convolutional neural network examples.
+  * Parameter sharing and sparsity connections.
+
