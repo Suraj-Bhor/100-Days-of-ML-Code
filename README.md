@@ -89,4 +89,8 @@
   * Convolutions over volumes i.e. on RGB images.
   * Deep convolutional neural network examples.
   * Parameter sharing and sparsity connections.
+  
+    ## Day 12: 20<sup>th</sup> April 2020 : Implementation of Convolutional Neural Networks
+* Started with the implementation of CNN from scratch.
+* Implemented the forward pass of the CNN.
 
