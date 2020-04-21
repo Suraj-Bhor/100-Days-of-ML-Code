@@ -94,7 +94,7 @@
 * Started with the implementation of CNN from scratch.
 * Implemented the forward pass of the CNN.
 
-## Day 13: 21<sup>th</sup> April 2020 : Implementation of CNN in TensorFlow
+## Day 13: 21<sup>st</sup> April 2020 : Implementation of CNN in TensorFlow
 * Finished with the implementation of CNN from scratch.
 * Implemented the pooling forward, backward propagration and pooling backward of the CNN from scratch.
 * Implemented the classification of hand signs using CNN through the TensorFlow framework with accuracy of 80%. 
