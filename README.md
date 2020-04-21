@@ -68,7 +68,7 @@
   * Surpassing human-level performance.
   * Improving model performance.
   
-  ## Day 10: 18<sup>th</sup> April 2020 : Transfer Learning and Multi-task learning
+## Day 10: 18<sup>th</sup> April 2020 : Transfer Learning and Multi-task learning
 * Finished with the Structuring Machine Learning Projects course.
 * Went through week 2 videos and learnt about the following concepts.
   * Carrying out error analysis.
@@ -80,17 +80,21 @@
   * End-to-end Deep Learning.
 * Earned course [certificate](https://www.coursera.org/account/accomplishments/records/PJJ7B368V36R).
 
-  ## Day 11: 19<sup>th</sup> April 2020 : Convolutional Neural Networks
+## Day 11: 19<sup>th</sup> April 2020 : Convolutional Neural Networks
 * Started with the [course 4](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) (Convolutional Neural Networks) of the Deep Learning Specialization.
 * Finished week 1 videos and learnt about the following concepts.
   * Edge detection using various filters on gray-scale as well as RGB images.
   * Concept of padding and why it is used.
-  *  Strided convolutions.
+  * Strided convolutions.
   * Convolutions over volumes i.e. on RGB images.
   * Deep convolutional neural network examples.
   * Parameter sharing and sparsity connections.
   
-    ## Day 12: 20<sup>th</sup> April 2020 : Implementation of Convolutional Neural Networks
+## Day 12: 20<sup>th</sup> April 2020 : Implementation of Convolutional Neural Networks
 * Started with the implementation of CNN from scratch.
 * Implemented the forward pass of the CNN.
 
+## Day 13: 21<sup>th</sup> April 2020 : Implementation of CNN in TensorFlow
+* Finished with the implementation of CNN from scratch.
+* Implemented the pooling forward, backward propagration and pooling backward of the CNN from scratch.
+* Implemented the classification of hand signs using CNN through the TensorFlow framework with accuracy of 80%. 
