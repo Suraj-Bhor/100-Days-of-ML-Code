@@ -97,4 +97,16 @@
 ## Day 13: 21<sup>st</sup> April 2020 : Implementation of CNN in TensorFlow
 * Finished with the implementation of CNN from scratch.
 * Implemented the pooling forward, backward propagration and pooling backward of the CNN from scratch.
-* Implemented the classification of hand signs using CNN through the TensorFlow framework with accuracy of 80%. 
+* Implemented the classification of hand signs using CNN through the TensorFlow framework with accuracy of 80%.
+
+## Day 14: 22<sup>nd</sup> April 2020 : Classic CNN Architectures
+* Finished with the week 2 videos and assignment and learnt about the following concepts.
+  * LeNet-5 architecture.
+  * AlexNet architecture.
+  * VGG-16 architecture.
+  * Residual Networks and the intuition behind why resnets work.
+  * Network in network and 1 x 1 convolutions.
+  * Inception network architecture.
+  * Transfer learning and Data augmentation.
+  * Data vs Hand-engineering.
+  * State of the Computer Vision.
