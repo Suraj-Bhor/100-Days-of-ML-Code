@@ -110,3 +110,8 @@
   * Transfer learning and Data augmentation.
   * Data vs Hand-engineering.
   * State of the Computer Vision.
+  
+## Day 15: 23<sup>rd</sup> April 2020 : Implementation of ResNet-50 in Keras with TensorFlow as backend.
+* Performed basic operations in Keras framework with TensorFlow as backend.
+* Implemented the ResNet-50 architecture with its basic identity blocks and convolutional blocks in Keras.
+* Implemented the classification of hand signs using ResNet-50 through the Keras framework with accuracy of 86%.
