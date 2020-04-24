@@ -115,3 +115,14 @@
 * Implemented CNN in Keras with TensorFlow as backend to classify emotions of the person in the image.
 * Implemented the ResNet-50 architecture with its basic identity blocks and convolutional blocks in Keras.
 * Implemented the classification of hand signs using ResNet-50 through the Keras framework with accuracy of 86%.
+
+## Day 16: 24<sup>th</sup> April 2020 : Object detection
+* Finished with the week 3 videos and assignment and learnt about the following concepts.
+  * Difference between image classification, image localization and detection.
+  * Landmark detection.
+  * Object detection and sliding window detection.
+  * Convolutional implementation of sliding window.
+  * YOLO Algorithm.
+  * Concepts such as specifying bounding boxes, intersection over union and non-max suppression.
+  * Anchor box algorithm.
+  * Region proposals. R-CNN, Fast R-CNN, Faster R-CNN.
