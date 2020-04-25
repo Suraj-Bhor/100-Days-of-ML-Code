@@ -126,3 +126,15 @@
   * Concepts such as specifying bounding boxes, intersection over union and non-max suppression.
   * Anchor box algorithm.
   * Region proposals. R-CNN, Fast R-CNN, Faster R-CNN.
+  
+## Day 17: 25<sup>th</sup> April 2020 : Implementation of YOLOv2
+* Implement YOLOv2 CNN for object detection, specifically to detect cars with bounding boxes on the road.
+* Finished with the week 4 videos and learnt about the following concepts.
+  * Face verfication vs Face Recognition
+  * One Shot Learning
+  * Siamese network for one shot learning.
+  * Triplet loss function.
+  * Face verification and binary classification.
+  * Neural Style Transfer.
+  * Content loss functio and style loss function.
+  * 1D and 3D generalization of models.
