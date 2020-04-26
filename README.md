@@ -138,3 +138,23 @@
   * Neural Style Transfer.
   * Content loss functio and style loss function.
   * 1D and 3D generalization of models.
+  
+  
+## Day 18: 26<sup>th</sup> April 2020 : Face recognition, Neural Style transfer and RNNs
+* Implemented CNN for face recognition and neural style transfer with the use of transfer learning in TensorFlow.
+* Completed the course 4 of Deep Learning Specialization and earned [certificate](https://coursera.org/share/6b3ea17a7bc112558a35cdf1100c8705).
+* Started with the [course 5 (Sequence models)](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) of Deep Learning Specialization.
+* Finished with the week 1 videos and learnt about the following concepts.
+  * Recurrent Neural Networks (RNNs)
+  * Forward and backward propagation in RNNs.
+  * Different types of RNNs for different types of NLP applications.
+  * Language modelling and sequence generation using RNNs.
+  * Sampling novel sequences and character level language models.
+  * Vanishing gradients with RNNs.
+  * Gated Recurrent Unit (GRU)
+  * Long Short Term Memory (LSTM) model
+  * Bi-directional RNNs (BRNN)
+  * Deep RNNs
+* Started with the Google's [Data Engineering with Google Cloud Professional Certificate course](https://www.coursera.org/professional-certificates/gcp-data-engineering#courses) on Coursera.
+* Started with course 1 [(Google Cloud Platform Big Data and Machine Learning Fundamentals)](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome) of the specialization.
+* Going through week 1 videos and got to know about the basics of creating VM and creating storage buckets in GCP.
