@@ -158,3 +158,4 @@
 * Started with the Google's [Data Engineering with Google Cloud Professional Certificate course](https://www.coursera.org/professional-certificates/gcp-data-engineering#courses) on Coursera.
 * Started with course 1 [(Google Cloud Platform Big Data and Machine Learning Fundamentals)](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome) of the specialization.
 * Going through week 1 videos and got to know about the basics of creating VM and creating storage buckets in GCP.
+* Attended the Google Developers online meetup and learnt what TensorFlow Lite is, what its capabale to do and also how developers can use it to deploy machine learning models on Andriod, iOS and embedded devices.
