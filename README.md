@@ -159,3 +159,9 @@
 * Started with course 1 [(Google Cloud Platform Big Data and Machine Learning Fundamentals)](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome) of the specialization.
 * Going through week 1 videos and got to know about the basics of creating VM and creating storage buckets in GCP.
 * Attended the Google Developers online meetup and learnt what TensorFlow Lite is, what it's capable to do and also how developers can use it to deploy storage and memory efficient machine learning models on Andriod, iOS and embedded devices.
+
+## Day 19: 27<sup>th</sup> April 2020 : Implementation of RNNs
+* Implemented the forward pass and the backward pass of RNN from scratch.
+* Implemented a character level language model to generate dinosaurs names from scratch using just numpy and functions from the above RNN implementation. (Tedious assignment but fun to watch the model generate some really cool names.)
+* Generated really cool Jazz music using LSTMs with the help of Keras. (Here's the [link](https://drive.google.com/open?id=1GgQ30_ZPEWOoGivlwDlDoYz8Ps7jIODG) to the music generated.)
+* In general, felt that the assignments were little difficult to implement. Also lot of stuff is still unknown and will probably need re-iteration to understand the nitty-gritty of the implementations.
