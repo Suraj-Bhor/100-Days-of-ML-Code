@@ -165,3 +165,18 @@
 * Implemented a character level language model to generate dinosaurs names from scratch using just numpy and functions from the above RNN implementation. (Tedious assignment but fun to watch the model generate some really cool names.)
 * Generated really cool Jazz music using LSTMs with the help of Keras. (Here's the [link](https://drive.google.com/open?id=1GgQ30_ZPEWOoGivlwDlDoYz8Ps7jIODG) to the music generated.)
 * In general, felt that the assignments were little difficult to implement. Also lot of stuff is still unknown and will probably need re-iteration to understand the nitty-gritty of the implementations.
+
+## Day 20: 28<sup>th</sup> April 2020 : NLP and Word Embeddinngs
+* Started with the week 2 of the Sequence models course from deeplearning.ai.
+* Finished with the week 2 videos and learnt about the following concepts.
+  * Word Embeddings
+  * t-SNE algorithm
+  * Transfer learning and word embeddings.
+  * Properties of word embeddings.
+  * Embedding matrix
+  * Neural Language Model
+  * Word2Vec algorithm
+  * Negative sampling algorithm.
+  * GloVe word vectors 
+  * Sentiment classification using RNN and word embeddings.
+  * Debiasing word embeddings.
