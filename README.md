@@ -180,3 +180,9 @@
   * GloVe word vectors 
   * Sentiment classification using RNN and word embeddings.
   * Debiasing word embeddings.
+  
+## Day 21: 29<sup>th</sup> April 2020 : Implementation of Sentiment analysis using LSTMs and Word Embeddings
+* Implemented a simple neural network to find cosine similarity between two words and also debiased the word embeddings as mentioned in this [paper](https://arxiv.org/abs/1607.06520).
+* Implemented a LSTM model using pretrained word embeddings(GloVe word vectors) in Keras to associate emojis with the input text. In short it was a sentiment classifier with labels in the form of different emojis.
+* Went throught the week 1 videos of [GCP Big Data and Machine learning course](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome) on Coursera.
+* Had a lab assignment where we had to explore a BigQuery Public Dataset and also upload our dataset into the BigQuery and create custom table from it and run queries on the tables.
