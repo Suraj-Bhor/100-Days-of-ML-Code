@@ -186,3 +186,21 @@
 * Implemented a LSTM model using pretrained word embeddings(GloVe word vectors) in Keras to associate emojis with the input text. In short it was a sentiment classifier with labels in the form of different emojis.
 * Went throught the week 1 videos of [GCP Big Data and Machine learning course](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome) on Coursera.
 * Had a lab assignment where we had to explore a BigQuery Public Dataset and also upload our dataset into the BigQuery and create custom table from it and run queries on the tables.
+
+## Day 22: 30<sup>th</sup> April 2020 : Attention Networks and Machine Translation
+* Finished with the Sequence Models course and completed the Deep Learning Specialization. (Feels good!)
+* Concepts learnt from the week 3 of sequence models
+  * Sequence to sequence models
+  * Image captioning using CNNs and encoder decoder networks.
+  * Machine translation as building a conditional language model.
+  * Encoder and decoder networks.
+  * Beam search algorithm for machine translation applications.
+  * Refinements to beam search algorithm - Length Normalization.
+  * Error analysis for beam search.
+  * Bleu score on n-grams.
+  * Attention model
+  * Speech recognition and CTC cost for speech recognition.
+  * Trigger word detection.
+* Implement a Attention model RNN where we had to output the date in machine understandable language from human given input date formats using LSTMs.
+* Implement trigger word detection application using GRU.
+* Earned the specialization [certificate](https://www.coursera.org/account/accomplishments/specialization/XQQJX2639GBG).
