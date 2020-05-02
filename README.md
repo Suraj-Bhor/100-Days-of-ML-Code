@@ -211,3 +211,14 @@
 * Explored a real customer solution architectures in machine learning.
 * Learnt what are key roles in a data driven organization.
 
+## Day 24: 2<sup>nd</sup> May 2020 : Recommend products using Cloud SQL and Apache SparkML
+* Implemented a recommendation system in GCP Qwiklabs using CloudSQL and Apache SparkML model to predict the recommendations for a user based on his activity.
+* Got familiar with BigQuery and explored couple of large dataset with SQL. Also learnt how to injest data into the BigQuery.
+* Also used BigQuery GIS to analyse geographic data.
+* Learnt about BigQuery ML to build a classification system to predict whether the user will purchase an item from the ecommerce website based on his session data. Also used a logistic regression model written in BigQuery ML SQL to train, evaluate and predict the purchases of users.
+* Learnt about the modern data pipeline challenges.
+* Learnt briefly about Message-oriented architectures with Cloud Pub/Sub and design and implement streaming data pipelines that scale.
+* Also visualized streamlined data on the Data Studio.
+*  Created a streaming data pipeline with Cloud Dataflow for real-time New York Taxi Service.
+
+
