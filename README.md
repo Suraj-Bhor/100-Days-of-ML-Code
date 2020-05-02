@@ -204,3 +204,10 @@
 * Implement a Attention model RNN where we had to output the date in machine understandable language from human given input date formats using LSTMs.
 * Implement trigger word detection application using GRU.
 * Earned the specialization [certificate](https://www.coursera.org/account/accomplishments/specialization/XQQJX2639GBG).
+
+## Day 23: 1<sup>st</sup> May 2020 : Big data and Machine learning in GCP
+* Went through the week 1 videos of Big data and Machine Learning in GCP.
+* Learnt how to choose right approach for problems.
+* Explored a real customer solution architectures in machine learning.
+* Learnt what are key roles in a data driven organization.
+
