@@ -221,4 +221,13 @@
 * Also visualized streamlined data on the Data Studio.
 *  Created a streaming data pipeline with Cloud Dataflow for real-time New York Taxi Service.
 
-
+## Day 25: 3<sup>rd</sup> May 2020 : Using AutoML to classify cloud types images.
+* Finished with the week 2 videos of the Big Data and Machine Learning in GCP.
+* Learnt how to use various tools in GCP (BigQueryML, AutoML, Cloud ML APIs) to perform different tasks on the unstructed data.
+* Used the BigQueryML to make a multi-class logistic regression model to classify images of different types of clouds. Accuracy achieved here was just 79%.
+* To improve accuracy used the GCP's AutoML to figure out on its own the model to the train images on and then test out our images to classify the cloud types.
+* The cloud AutoML is really cool and under the hood it trains our images on variety on networks (from Feed forward neural networks to complex CNN architectures). After training it evaluates its accuracy against different models and picks and returns the model which gives the highest accuracy. It takes a while for training but the output is always the best model.
+* Trianed the cloud types model on GCP with the validation accuracy of 97% (Pretty Good!).
+* Finished with the course and earned the [certificate](https://www.coursera.org/account/accomplishments/certificate/DEMRZV4GEAWV).
+* Started with the reading of research papers. Picked the AlexNet paper first (since its easy to read.) and will try to re-implement it.
+* Taking notes of the papers in Notion.
