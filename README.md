@@ -231,3 +231,14 @@
 * Finished with the course and earned the [certificate](https://www.coursera.org/account/accomplishments/certificate/DEMRZV4GEAWV).
 * Started with the reading of research papers. Picked the AlexNet paper first (since its easy to read.) and will try to re-implement it.
 * Taking notes of the papers in Notion.
+
+## Day 26: 4<sup>th</sup> May 2020 : Data Engineering 
+* Started with the [course 2](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp/home/welcome) (Modernizing Data Lakes and Data Warehouses in GCP) of Data Engineering with GCP Professional Certificate.
+* Got a high level overview of what data engineering is and how data engineer builds data pipelines to faciliate easy flow of data into the entire system.
+* Understood what are data lakes and data warehouses and what are the considerations to be taken into account while building one.
+* Got to know what all challenges data engineer have to face and how they can be tackled using some tools available in GCP.
+* Learnt what ETL pipelines are and how they are used to injest data into the data warehouses.
+* Understood the difference between the transactional databases and the data warehouses.
+* Learnt how the data engineers have to deal with demands of ML engineers, Data analysts and other co data engineers.
+* Got to know how data governance can be done to hide sensitive information using the cloud data loss prevention API.
+* Finally, learnt how to productionize the data process using Apache AirFlow.
