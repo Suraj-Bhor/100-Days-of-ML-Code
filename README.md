@@ -242,3 +242,16 @@
 * Learnt how the data engineers have to deal with demands of ML engineers, Data analysts and other co data engineers.
 * Got to know how data governance can be done to hide sensitive information using the cloud data loss prevention API.
 * Finally, learnt how to productionize the data process using Apache AirFlow.
+
+## Day 27: 5<sup>th</sup> May 2020 : Building data lakes.
+* Understood what data lakes are and what are the consideration to be taken into account while building one.
+* Learnt the differences between data lake and data warehouse.
+* Went through different storage options in GCP.
+* Understood the high-level architecture of Google Cloud Storage and how it stores data in the form of buckets and objects.
+* Also understood how access is controlled in such storage devices with IAM and access lists.
+* Went through the difference between Transactional systems and Analytical systems.
+* OLTP vs OLAP.
+* Got to know what is fully managed services and serverless services.
+* Did some hands-on in the GCP lab where we had to injest data from CSV into the Google Cloud SQL where they can be explored using normal SQL commands. This Cloud SQL here acts as a data lake and from here data can be passed to data warehouses such as Google BigQuery for analytics purposes.
+* Continued reading the AlexNet paper and updated the notes in Notion.
+* Learnt what are key roles in a data driven organization.
