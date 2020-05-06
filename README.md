@@ -255,3 +255,13 @@
 * Did some hands-on in the GCP lab where we had to injest data from CSV into the Google Cloud SQL where they can be explored using normal SQL commands. This Cloud SQL here acts as a data lake and from here data can be passed to data warehouses such as Google BigQuery for analytics purposes.
 * Continued reading the AlexNet paper and updated the notes in Notion.
 * Learnt what are key roles in a data driven organization.
+
+## Day 28: 6<sup>th</sup> May 2020 : Building data warehouses
+* Went through the week 2 videos of modernizing the data lakes and data warehouses.
+* Learnt what a modern data warehouse should offer in terms of features such as capacity, serverless capabilities, security, machine learning, data visualization tools support etc.
+* Understood at a high-level of how BigQuery stores its data into datasets containing tables.
+* Learnt how the BigQuery Data Transfer services brings in data from different resources with its connectors connecting BigQuery to Amazon S3 storage, YouTube, Google Ads etc.
+* Differences in EL, ELT and ETL.
+* Performed a lab demo where we had to import data from csv into the BigQuery and then use SQL to find insights into the data.
+* Read further the AlexNet paper and understood its architecture and the number of methods used to avoid overfitting of data.
+* All progress stored in Notion.
