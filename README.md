@@ -265,3 +265,12 @@
 * Performed a lab demo where we had to import data from csv into the BigQuery and then use SQL to find insights into the data.
 * Read further the AlexNet paper and understood its architecture and the number of methods used to avoid overfitting of data.
 * All progress stored in Notion.
+
+## Day 29: 7<sup>th</sup> May 2020 : Structs and arrays in BigQuery and AlexNet Implementation
+* Finished with the week 2 videos of modernizing data lakes and data warehouses in GCP.
+* Learnt how denormalizing is done in BigQuery to make queries faster and reduce the overhead of using expensive JOIN operations.
+* Went the through the concepts of nested and repeated fields in BigQuery.
+* Learnt about structs and arrays in BigQuery and also performed lab assignment to get hands-on with these concepts.
+* Learnt how partitioning and clustering is done on the database tables in BigQuery.
+* Finished with the course and earned [certificate](https://www.coursera.org/account/accomplishments/certificate/5J8DV3G8HT75).
+* Finished reading the AlexNet paper and now trying to implement it using the Flower Recognition dataset provided by Kaggle.
