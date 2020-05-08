@@ -274,3 +274,8 @@
 * Learnt how partitioning and clustering is done on the database tables in BigQuery.
 * Finished with the course and earned [certificate](https://www.coursera.org/account/accomplishments/certificate/5J8DV3G8HT75).
 * Finished reading the AlexNet paper and now trying to implement it using the Flower Recognition dataset provided by Kaggle.
+
+
+## Day 30: 8<sup>th</sup> May 2020 : Setting up the environment
+* Just worked on setting up the environment for implementing the AlexNet paper on Flower Recognition challenge.
+* Had issues with various packages in conda took a lot of time to resolve them. Still some visualization packages dependencies is yet to be resolved.
