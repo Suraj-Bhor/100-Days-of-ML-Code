@@ -279,3 +279,12 @@
 ## Day 30: 8<sup>th</sup> May 2020 : Setting up the environment
 * Just worked on setting up the environment for implementing the AlexNet paper on Flower Recognition challenge.
 * Had issues with various packages in conda took a lot of time to resolve them. Still some visualization packages dependencies is yet to be resolved.
+
+## Day 31: 9<sup>th</sup> May 2020 : Implementation of AlexNet
+* Implemented AlexNet Paper using the Flower Recognition dataset in Kaggle.
+* Got familiar with Kaggle notebooks, setup environment and the training data.
+* Implemented the CNN using the AlexNet architecture in Keras and ran the code for 15 epochs.
+* Accuracy wasn't quite good hence tried using the pretrained weights for the network.
+* There were improvements in training accuracy but validation accuracy was not increasing.
+* Played around with hyperparameter tuning and using various optimizers.
+* Finally used the VGG16 pretrained model to do the transfer learning task.
