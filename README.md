@@ -288,3 +288,14 @@
 * There were improvements in training accuracy but validation accuracy was not increasing.
 * Played around with hyperparameter tuning and using various optimizers.
 * Finally used the VGG16 pretrained model to do the transfer learning task.
+
+## Day 32: 10<sup>th</sup> May 2020 : Building batch data pipelines.
+* Started with the course 3 i.e [Building batch data pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp/home/welcome) of the Data Engineer Specialization on GCP.
+* Revised the concepts of EL, ETL and ELT. Understood each architecture and the scenarios where they have to be used.
+* Quality consideration in the ETL pipelines.
+* Understood how ETL pipelines in Dataflow work to land data into the data warehouses.
+* Learnt how different tools are used according to the use cases like uses of Cloud Dataflow ,Cloud Dataproc and Cloud Data Fusion in GCP.
+* Had a high level overview of the Hadoop Ecosystem and understood the limitation the on-premise Hadoop Clusters have to face.
+* Understood how the GCP Dataproc help in processing Big Data workloads through fully managed Hadoop clusters.
+* Had a overview of the Cloud Dataproc architecture in GCP.
+* Understood how GCS helps in decoupling the storage from compute in case of Hadoop Clusters where the data is saved in storage buckets rather than on the cluster attached HDFS.
