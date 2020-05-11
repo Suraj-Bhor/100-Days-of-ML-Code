@@ -299,3 +299,16 @@
 * Understood how the GCP Dataproc help in processing Big Data workloads through fully managed Hadoop clusters.
 * Had a overview of the Cloud Dataproc architecture in GCP.
 * Understood how GCS helps in decoupling the storage from compute in case of Hadoop Clusters where the data is saved in storage buckets rather than on the cluster attached HDFS.
+
+## Day 33: 11<sup>th</sup> May 2020 : Apache Spark Jobs on Cloud Dataproc
+* Finished with the week 1 of course 3 i.e [Building batch data pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp/home/welcome) of the Data Engineer Specialization on GCP.
+* Learnt how to optimize Dataproc in terms of Hadoop and Spark performance for all cluster architectures.
+* Learnt how to optimize storage on Cloud Dataproc and when do we really need HDFS for storing the data in the cluster.
+* Also understood the need to separate cluster compute resources and data storage.
+* Had a brief overview of the lifecycle of cluster in Dataproc.
+* Understood the concepts of optimizing the Dataproc templates and learnt how the autoscaling of cluster works depending upon the YARN tool.
+* Learnt how to optimize the Dataproc monitoring by setting up the log levels and visualizing this data into the Cloud Stackdriver.
+* Finally had a hands-on in the GCP to perform the following tasks.
+  * To run original Spark Code on Cloud Dataproc where the storage used is HDFS and the dataset used is that of the Knowledge, Discovery and Data competition.
+  * Then instead of using the HDFS use the Google Cloud Storage Buckets to store the processed data.
+  * Automated the above task so that it runs on job-specific clusters.
