@@ -312,3 +312,13 @@
   * To run original Spark Code on Cloud Dataproc where the storage used is HDFS and the dataset used is that of the Knowledge, Discovery and Data competition.
   * Then instead of using the HDFS use the Google Cloud Storage Buckets to store the processed data.
   * Automated the above task so that it runs on job-specific clusters.
+  
+  ## Day 34: 12<sup>th</sup> May 2020 : Cloud Data Fusion
+* Started with the week 2 of the building batch data pipelines in GCP course.
+* Learnt how data fusion on GCP works and how it's intuitive to build data pipelines which handle complex workloads in Hadoop and Apache Spark.
+* Had a overview of the Cloud Composer in GCP and how it leverages the open source Apache AirFlow to orchestrate the various GCP services.
+* Had a hands-on on GCP where the following tasks were completed.
+  * Created the data fusion instance and connected various data sources such as GCS and Google BigQuery to pore in the data.
+  * Used the Wrangler tool to transform and clean the data which contained several mislead data and feed this data to the Dataproc instance using just the Directed Acyclic Graphs in the Data Fusion Studio.
+  * Created a Data pipeline and joined the two data sources using the Joiner module to make a simple join operation.
+  * Later ran this job which internally spun up the dataproc instance along with the Hadoop cluster and ran the SQL query across the cluster and later saved the output in a table in BigQuery.
