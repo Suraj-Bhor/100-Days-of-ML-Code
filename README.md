@@ -313,7 +313,7 @@
   * Then instead of using the HDFS use the Google Cloud Storage Buckets to store the processed data.
   * Automated the above task so that it runs on job-specific clusters.
   
-  ## Day 34: 12<sup>th</sup> May 2020 : Cloud Data Fusion
+## Day 34: 12<sup>th</sup> May 2020 : Cloud Data Fusion
 * Started with the week 2 of the building batch data pipelines in GCP course.
 * Learnt how data fusion on GCP works and how it's intuitive to build data pipelines which handle complex workloads in Hadoop and Apache Spark.
 * Had a overview of the Cloud Composer in GCP and how it leverages the open source Apache AirFlow to orchestrate the various GCP services.
@@ -322,3 +322,20 @@
   * Used the Wrangler tool to transform and clean the data which contained several mislead data and feed this data to the Dataproc instance using just the Directed Acyclic Graphs in the Data Fusion Studio.
   * Created a Data pipeline and joined the two data sources using the Joiner module to make a simple join operation.
   * Later ran this job which internally spun up the dataproc instance along with the Hadoop cluster and ran the SQL query across the cluster and later saved the output in a table in BigQuery.
+  
+  
+  
+## Day 35: 13<sup>th</sup> May 2020 : Cloud Composer and Cloud Data Fusion
+* Went into the details of Cloud Composer in GCP.
+* Understood how the workflow scheduling works along with modules such as monitoring and logging.
+* Had a hands-on lab in GCP where I had to perform the following tasks:
+  * Creating the Cloud Composer Environment in GCP.
+  * Defining the workflow/pipeline like the source, the sink etc.
+  * Viewing Airflow UI and setting the Airflow variables.
+  * Uploading the DAG to GCS.
+  * Running simple word count algorithm on a Dataproc Hadoop cluster and saving the output to a GCS bucket.
+* Also learnt about the Cloud Dataflow service offered by GCP.
+* Understood the difference between Cloud Dataflow and Cloud Dataproc and when to use them.
+* Understood how Cloud Dataflow works internally and how it leverages the open source Apache BEAM tool to make the data pipelines easier to build for both batch and streaming data.
+* Understood the architecture of Apache BEAM and its PTransform and Pcollections components. Went into the details of each component.
+* Later, had a hands-on on in the GCP lab where we needed to create simple data pipeline using the Cloud Dataflow in Python.
