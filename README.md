@@ -343,10 +343,10 @@
 * Learnt about agrregating with GroupByKey and Combine in Dataflow and saw how data skewness can affect the performance of grouping operation at scale.
 * Understood how to use the Cloud Dataflow templates and also save our Dataflow instance as a template so that it can be easily spun up again.
 * Understood how to use the Dataflow SQL to make queries inside the data pipelines.
-* Had hands-on lab to do serverless data analysis with Dataflo, here used the mapreduce function to do the analysis over large dataset.
+* Had hands-on lab to do serverless data analysis with Dataflow, here used the mapreduce function to do the analysis over large dataset.
 * Had hands-on lab to better understand the usage of side inputs in Dataflow in GCP.
 * Finished with the course and earned a [certificate](https://www.coursera.org/account/accomplishments/certificate/YEL3JBESUEGK).
 * Started with the course 4 of the specialization. ([Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp/home/welcome))
-* In week 1 learnt about the stream data processing in general and also understood jow Cloud Pub/Sub is used to make the streaming process seamless.
+* In week 1 learnt about the stream data processing in general and also understood now Cloud Pub/Sub is used to make the streaming process seamless.
 * Also learnt about the push vs pull model of Cloud Pub/Sub and how the acknowledgements in each case are passed on to the events.
 * Understood how to publish with Cloud Pub/Sub in GCP.
