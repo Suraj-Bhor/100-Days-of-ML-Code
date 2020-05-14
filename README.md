@@ -323,8 +323,6 @@
   * Created a Data pipeline and joined the two data sources using the Joiner module to make a simple join operation.
   * Later ran this job which internally spun up the dataproc instance along with the Hadoop cluster and ran the SQL query across the cluster and later saved the output in a table in BigQuery.
   
-  
-  
 ## Day 35: 13<sup>th</sup> May 2020 : Cloud Composer and Cloud Data Fusion
 * Went into the details of Cloud Composer in GCP.
 * Understood how the workflow scheduling works along with modules such as monitoring and logging.
@@ -339,3 +337,16 @@
 * Understood how Cloud Dataflow works internally and how it leverages the open source Apache BEAM tool to make the data pipelines easier to build for both batch and streaming data.
 * Understood the architecture of Apache BEAM and its PTransform and Pcollections components. Went into the details of each component.
 * Later, had a hands-on on in the GCP lab where we needed to create simple data pipeline using the Cloud Dataflow in Python.
+
+## Day 36: 14<sup>th</sup> May 2020 : Cloud Dataflow
+* Finished with the course 3 of Data Engineering Specialization in GCP.
+* Learnt about agrregating with GroupByKey and Combine in Dataflow and saw how data skewness can affect the performance of grouping operation at scale.
+* Understood how to use the Cloud Dataflow templates and also save our Dataflow instance as a template so that it can be easily spun up again.
+* Understood how to use the Dataflow SQL to make queries inside the data pipelines.
+* Had hands-on lab to do serverless data analysis with Dataflo, here used the mapreduce function to do the analysis over large dataset.
+* Had hands-on lab to better understand the usage of side inputs in Dataflow in GCP.
+* Finished with the course and earned a [certificate](https://www.coursera.org/account/accomplishments/certificate/YEL3JBESUEGK).
+* Started with the course 4 of the specialization. ([Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp/home/welcome))
+* In week 1 learnt about the stream data processing in general and also understood jow Cloud Pub/Sub is used to make the streaming process seamless.
+* Also learnt about the push vs pull model of Cloud Pub/Sub and how the acknowledgements in each case are passed on to the events.
+* Understood how to publish with Cloud Pub/Sub in GCP.
