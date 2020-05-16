@@ -370,3 +370,21 @@
 * Had hands-on lab where the following tasks were performed:
   * Connecting to a BigQuery data source.
   * Creating reports and charts to visualize BigQuery data.
+  
+## Day 38: 16<sup>th</sup> May 2020 : Cloud Bigtable and Advanced BigQuery Functionalities
+* Finished with the course 4 i.e Building Resilient Streaming Analytics Systems on GCP of the Data Engineering Specialization on GCP
+* Key concepts learnt in the week 2 of the course:
+  * How Cloud BigTable works and how it is different from BigQuery.
+  * Learnt when to make use of Cloud Bigtable and BigQuery.
+  * Had a overview of the architecture of Cloud Bigtable and also how data is stored in it.
+  * Also understood concepts of column families and how to optimize Cloud Bigtable performance.
+  * Had a hands-on lab for Cloud Bigtable where streaming data from cloud Dataflow was used to make entries in the Cloud Bigtable. Later queried the table to get the processed data.
+  * Learnt about some advanced functionalities in BigQuery.
+  * Understood how to store GIS data and also process it using the ST_DISTANCE type functions in BigQuery.
+  * Later also saw how to use this data on the GeoViz tool for visualizing the GIS data on Google Maps.
+  * Learnt about the analytical windows in BigQuery and how they are used to make queries faster rather than using joins to process any queries.
+  * Understood how the RANK and the ARRAYs functions are used in BigQuery. These methods are used in conjuction with the Analytical Windows in BigQuery.
+  * Learnt about partioning the table via different method which reduces the read time of the data and in turn save a lot of time in processing the queries on very large data sets.
+  * Understood how the performance of the SQL queries can be improved by using some specific tips.
+  * Lastly had hands-on on all the above topics in BigQuery.
+* Finished with the course and earned [certificate](https://www.coursera.org/account/accomplishments/records/FWK59CDH8FHM).
