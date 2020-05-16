@@ -350,3 +350,23 @@
 * In week 1 learnt about the stream data processing in general and also understood now Cloud Pub/Sub is used to make the streaming process seamless.
 * Also learnt about the push vs pull model of Cloud Pub/Sub and how the acknowledgements in each case are passed on to the events.
 * Understood how to publish with Cloud Pub/Sub in GCP.
+
+## Day 37: 15<sup>th</sup> May 2020 : Cloud Pub/Sub and stream processing with analytics on streaming data.
+* Finished with week 1 of the course 4 of Data Engineering Specialization on GCP.
+* Learnt how to make streaming pipelines in Cloud Dataflow and also understood what are the issues involved in processing streaming data.
+* Also understood how modifications are done on the data from cloud Pub/Sub to make transformations using the PTransform.
+* Had a hands-on lab in GCP which involved creating streaming pipelines using Cloud Pub/Sub and Cloud Dataflow.
+* Understood the concept of Dataflow windowing and also learnt various types of Data Windowing techniques such as Fixed, Sliding and Session Windowing.
+* Learnt about the Accumulation and its types.
+* Had a hands-on lab in GCP where the following tasks were performed:
+  * Launching Dataflow and a Dataflow job.
+  * Understanding how data elements flow through the transformations of a Dataflow pipeline.
+  * Connecting Dataflow to Pub/Sub and BigQuery.
+  * Observing and understanding how Dataflow autoscaling adjusts compute resources to process input data optimally.
+  * Learning where to find logging information created by Dataflow.
+  * Exploring metrics and create alerts and dashboards with Cloud Monitoring.
+* Started with the week 2 videos of Streaming into BigQuery.
+* Also learnt how to visualize data into the Cloud Data Fusion.
+* Had hands-on lab where the following tasks were performed:
+  * Connecting to a BigQuery data source.
+  * Creating reports and charts to visualize BigQuery data.
