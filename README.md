@@ -388,3 +388,29 @@
   * Understood how the performance of the SQL queries can be improved by using some specific tips.
   * Lastly had hands-on on all the above topics in BigQuery.
 * Finished with the course and earned [certificate](https://www.coursera.org/account/accomplishments/records/FWK59CDH8FHM).
+
+
+## Day 39: 17<sup>th</sup> May 2020 : ML and AI on GCP 
+
+* Started with the Course 5 ([Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp/home/welcome)) of the Data Engineering Specialization on GCP. 
+* Went through the week 1 and week 2 videos and learnt the following concepts:
+  * Basics of ML.
+  * Different ML options in GCP.
+  * Introduction to Analytics and AI.
+  * Different ML APIs in GCP.
+  * Learnt about how AI notebooks are used to write custom ML models.
+  * Also learnt how BigQuery can be used in Jupyter notebooks.
+  * Understood about the phases in the ML projects.
+  * Understood what Kubeflow is and leanrt how to deploy machine learning models built in Tensorflow to train and serve using the Kubeflow platform.
+  * Also saw how AI Hub has different prebuilt ML models and pre-configured Kubeflow pipelines so that we dont reinvent the wheel again to do a specific task.
+  * Learnt how to productionize the ML models.
+  * Got to know how to build custom models in BigQuery ML with models used for tasks such as Classification, Regression and Recommendations.
+  * Also, saw how unsupervised learning models can be built in BigQuery where K-means clustering can be done effectively on the tables of the database.
+  * Lastly learnt about the Cloud AutoML where it can used in applications like Vision, NLP and Tablular data analytics.
+* Also, performed 5 labs in GCP to do the following tasks:
+  * Using the Natural Language API to classify unstructured text.
+  * Runnig BigQuery in Jupyter Labs on AI Platform.
+  * Predicting Bike Trip Duration with a Regression Model in BQML.
+  * Movie Recommendations in BigQuery ML.
+  * Running AI models on Kubeflow.
+* Finally, finished with the course and earned the [certificate](https://www.coursera.org/account/accomplishments/records/ZFPGRWCQHN9Q).
