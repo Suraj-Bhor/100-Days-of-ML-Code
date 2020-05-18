@@ -391,7 +391,6 @@
 
 
 ## Day 39: 17<sup>th</sup> May 2020 : ML and AI on GCP 
-
 * Started with the Course 5 ([Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp/home/welcome)) of the Data Engineering Specialization on GCP. 
 * Went through the week 1 and week 2 videos and learnt the following concepts:
   * Basics of ML.
@@ -414,3 +413,8 @@
   * Movie Recommendations in BigQuery ML.
   * Running AI models on Kubeflow.
 * Finally, finished with the course and earned the [certificate](https://www.coursera.org/account/accomplishments/records/ZFPGRWCQHN9Q).
+
+## Day 40: 18<sup>th</sup> May 2020 : Revisting Pandas.
+* Went through the basics of Pandas.
+* Revised some concepts such as Series, Dataframes, Lambda functions, Indexing and reindexing in Pandas.
+* Did some exercises in Google Colab.
