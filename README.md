@@ -414,7 +414,7 @@
   * Running AI models on Kubeflow.
 * Finally, finished with the course and earned the [certificate](https://www.coursera.org/account/accomplishments/records/ZFPGRWCQHN9Q).
 
-## Day 40: 18<sup>th</sup> May 2020 : Revisting Pandas.
+## Day 40: 18<sup>th</sup> May 2020 : Revisiting Pandas.
 * Went through the basics of Pandas.
-* Revised some concepts such as Series, Dataframes, Lambda functions, Indexing and reindexing in Pandas.
+* Revised some concepts such as Series, Dataframes, Lambda functions, Indexing and reindexing, Histogram plotting and accessing and manipulating data in Pandas.
 * Did some exercises in Google Colab.
