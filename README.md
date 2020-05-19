@@ -418,3 +418,13 @@
 * Went through the basics of Pandas.
 * Revised some concepts such as Series, Dataframes, Lambda functions, Indexing and reindexing, Histogram plotting and accessing and manipulating data in Pandas.
 * Did some exercises in Google Colab.
+
+## Day 41: 19<sup>th</sup> May 2020 : Modified AlexNet for Flower Recognition
+* Solved the issues that were causing the model to perform very poorely.
+* With the original AlexNet got a low validation accuracy of 60%.
+* So changed the hyperparameter and the learning algorithm and the valdiation accuracy achieved was 71.6%.
+* Plotted some graphs to know the how the training loss and validation loss decreased over epochs.
+* Learnt the following concepts while implementation:
+  * Difference between model.fit_generator, model.fit and model.train_on_batch functions in Keras.
+  * Generator concept in Python.
+  * The LabelEncoder module in Sklearn and the le.transform and le.inverse_transform in Keras.
