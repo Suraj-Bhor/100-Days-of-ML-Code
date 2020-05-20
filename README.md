@@ -428,3 +428,11 @@
   * Difference between model.fit_generator, model.fit and model.train_on_batch functions in Keras.
   * Generator concept in Python.
   * The LabelEncoder module in Sklearn and the le.transform and le.inverse_transform in Keras.
+  
+## Day 42: 20<sup>th</sup> May 2020 : Original AlexNet paper implementation with LR Annealer and Early Stopping
+* Made changes to the original AlexNet paper and tried to increase the accuracy.
+* Used the LR annealer in Keras to make the learning rate smaller when the the gradient descent is closer to the global optimal.
+* Also used early stopping to avoid overtraining of the training data.
+* The results seen were quite surprising since the validation accuracy achieved was approx. 75% where first without annealer and early stopping the accuracy achieved was only 50%.
+* For further increasing the accuracy used different optimizer and loss function but the accuracy achieved was just 70%. Issue was with this was the hyperparameter not correctly tuned and also the model had high bias. Will need to debug and try to increase the accuracy.
+* Uploaded both the versions of the code in the DL-Paper-Implementations repository.
