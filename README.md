@@ -436,3 +436,10 @@
 * The results seen were quite surprising since the validation accuracy achieved was approx. 75% where first without annealer and early stopping the accuracy achieved was only 50%.
 * For further increasing the accuracy used different optimizer and loss function but the accuracy achieved was just 70%. Issue was with this was the hyperparameter not correctly tuned and also the model had high bias. Will need to debug and try to increase the accuracy.
 * Uploaded both the versions of the code in the DL-Paper-Implementations repository.
+
+
+## Day 43: 21<sup>th</sup> May 2020 : Reading VGG16 paper
+* Started reading the [VGG16](https://arxiv.org/pdf/1409.1556) paper and making notes in Notion.
+* Wasn't familiar with the concept of 1 x 1 convolutions or Network in Network architecture.
+* Read about it and also watched some videos about it.
+* Signed up for the Jovian.ml course provided in collaboration with freeCodeCamp.
