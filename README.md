@@ -443,7 +443,7 @@
 * Read about it and also watched some videos about it.
 * Signed up for the Jovian.ml course provided in collaboration with freeCodeCamp.
 
-## Day 44: 22<sup>st</sup> May 2020 : Dataproc and PySpark Jobs on the Hadoop Cluster
+## Day 44: 22<sup>nd</sup> May 2020 : Dataproc and PySpark Jobs on the Hadoop Cluster
 * Finished with the final course of the Data Engineering Specialization on GCP.
 * Finished with the 2 labs in GCP where we have to create a Dataset and a table in BigQuery and populate data.
 * Also, made queried to analyse data in BigQuery.
