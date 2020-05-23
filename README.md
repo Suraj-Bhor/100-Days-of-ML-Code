@@ -442,3 +442,13 @@
 * Wasn't familiar with the concept of 1 x 1 convolutions or Network in Network architecture.
 * Read about it and also watched some videos about it.
 * Signed up for the Jovian.ml course provided in collaboration with freeCodeCamp.
+
+## Day 44: 22<sup>st</sup> May 2020 : Dataproc and PySpark Jobs on the Hadoop Cluster
+* Finished with the final course of the Data Engineering Specialization on GCP.
+* Finished with the 2 labs in GCP where we have to create a Dataset and a table in BigQuery and populate data.
+* Also, made queried to analyse data in BigQuery.
+* Later in the second lab fired up a Dataproc cluster and ran PySpark jobs on them.
+* Earned the following course [certificate](
+https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
+* Earned the following Data Engineering with Google Cloud Specialization [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5JG6UBFL66RF
+).
