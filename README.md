@@ -452,3 +452,12 @@
 https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Earned the following Data Engineering with Google Cloud Specialization [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5JG6UBFL66RF
 ).
+
+## Day 45: 23sup>rd</sup> May 2020 : Reading VGG16 paper - Part 2 and Basics of PyTorch.
+* Finished reading the [VGG16](https://arxiv.org/pdf/1409.1556) paper and making notes in Notion.
+* Understood how the scale jittering at test time increases the accuracy of the model.
+* Also, leanrt about the concept of multi-scale evaluation and multi-crop evaluation and how do they help in increasing the validation accuracy.
+* Also, got to know that the 1 x 1 convolutionals in a CNN to bring in the non-linearity may be a bad idea since a convolutional layer of some filter other than 1 x 1 conv. might help in finding out more spatial representations in the images and thus increasing accuracy of the model.
+* Watched the first video of the Zero to GANs course offered free by Jovian.ml in collaboration with freeCodeCamp.
+* Learnt the concepts of tensors basics in PyTorch and how do they calcluate the gradients by using functions such as tensor.backward().
+* Also saw an example of linear regression in PyTorch where the basic implementation of Gradient Descent Algorithm was demonstrated using PyTorch.
