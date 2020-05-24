@@ -453,7 +453,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Earned the following Data Engineering with Google Cloud Specialization [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5JG6UBFL66RF
 ).
 
-## Day 45: 23sup>rd</sup> May 2020 : Reading VGG16 paper - Part 2 and Basics of PyTorch.
+## Day 45: 23<sup>rd</sup> May 2020 : Reading VGG16 paper - Part 2 and Basics of PyTorch.
 * Finished reading the [VGG16](https://arxiv.org/pdf/1409.1556) paper and making notes in Notion.
 * Understood how the scale jittering at test time increases the accuracy of the model.
 * Also, leanrt about the concept of multi-scale evaluation and multi-crop evaluation and how do they help in increasing the validation accuracy.
