@@ -462,7 +462,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Learnt the concepts of tensors basics in PyTorch and how do they calcluate the gradients by using functions such as tensor.backward().
 * Also saw an example of linear regression in PyTorch where the basic implementation of Gradient Descent Algorithm was demonstrated using PyTorch.
 
-## Day 46: 24<sup>rd</sup> May 2020 : Implementation of Linear Regression using PyTorch tensors
+## Day 46: 24<sup>th</sup> May 2020 : Implementation of Linear Regression using PyTorch
 * Started with the week 1 assignment of the ZeroToGANs course.
 * Firstly, got familiar with the basics of tensors and the number of operations we can do on them.
 * Also, coded some examples where the torch.backward function computed differentiation automatically for a given function.
