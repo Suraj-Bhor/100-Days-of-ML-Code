@@ -461,3 +461,9 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Watched the first video of the Zero to GANs course offered free by Jovian.ml in collaboration with freeCodeCamp.
 * Learnt the concepts of tensors basics in PyTorch and how do they calcluate the gradients by using functions such as tensor.backward().
 * Also saw an example of linear regression in PyTorch where the basic implementation of Gradient Descent Algorithm was demonstrated using PyTorch.
+
+## Day 46: 24<sup>rd</sup> May 2020 : Implementation of Linear Regression using PyTorch tensors
+* Started with the week 1 assignment of the ZeroToGANs course.
+* Firstly, got familiar with the basics of tensors and the number of operations we can do on them.
+* Also, coded some examples where the torch.backward function computed differentiation automatically for a given function.
+* Then, implemented a basic linear regression model in PyTorch to identify the yeild of apples and oranges based on the climatic conditions.
