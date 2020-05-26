@@ -468,7 +468,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Also, coded some examples where the torch.backward function computed differentiation automatically for a given function.
 * Then, implemented a basic linear regression model in PyTorch to identify the yeild of apples and oranges based on the climatic conditions.
 
-## Day 46: 25<sup>th</sup> May 2020 : Probability distribution functions
+## Day 47: 25<sup>th</sup> May 2020 : Probability distribution functions
 * As a part of the assignment in the ZeroToGANs course trying to come up with any useful 5 PyTorch tensor functions.
 * To do this, I have decided to take the probablity distribution functions in PyTorch.
 * So, learnt about the theory of probability distribution functions such as discrete uniform distribution, exponential distribution, Cauchy's distribution, Bernoulli's distribution etc.
