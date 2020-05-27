@@ -474,3 +474,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * So, learnt about the theory of probability distribution functions such as discrete uniform distribution, exponential distribution, Cauchy's distribution, Bernoulli's distribution etc.
 * Also, side by side tried to use this functions and play a little bit around it.
 * Finally, using this functions, plotted graphs to understand the data better.
+
+## Day 48: 26<sup>th</sup> May 2020 : Probability distribution functions - Continued
+* Continuing with the previous day task of learning about probability distribution functions, coding it up and visualizing it.
