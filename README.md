@@ -477,3 +477,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 48: 26<sup>th</sup> May 2020 : Probability distribution functions - Continued
 * Continuing with the previous day task of learning about probability distribution functions, coding it up and visualizing it.
+
+## Day 49: 27<sup>th</sup> May 2020 : Probability distribution functions - Continued
+* Wasn't able to do much today due to some other work commitments. Still tried to do some learning about the probability functions. 
+* Learnt about the Bernoulli distribution and how it used to define other distributions such as normal distributuon, binomial distribution etc
