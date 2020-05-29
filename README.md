@@ -486,3 +486,15 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * It was all about random sampling of data from various distribution.
 * Spent most of the time in reading about these distributions and trying them out in PyTorch.
 * Also, after sampling data from various distributions tried plotting the histograms of the randomly sampled data along the curves of these distributions.
+
+## Day 51: 29<sup>st</sup> May 2020 : PDF and Jovian.ml
+* Done with updating the explanation notebook of random sampling of probability distribution functions in PyTorch.
+* Following are the probability distribution functions covered:
+  * Exponential Distribution
+  * Continuous Normal Distribution
+  * Continuous Log Normal Distribution
+  * Continuous Uniform Distribution
+  * Discrete Geometric Distribution
+* Will surely write a blog post explaining the above points.
+* Updated all the progress using the Jovian ML source code versioning system.
+* You can see the notebook [here](https://jovian.ml/suraj-bhor/assignment-1-sampling-from-different-probability-distributions-copy1).
