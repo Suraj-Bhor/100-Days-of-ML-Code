@@ -487,7 +487,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Spent most of the time in reading about these distributions and trying them out in PyTorch.
 * Also, after sampling data from various distributions tried plotting the histograms of the randomly sampled data along the curves of these distributions.
 
-## Day 51: 29<sup>st</sup> May 2020 : PDF and Jovian.ml
+## Day 51: 29<sup>th</sup> May 2020 : PDF and Jovian.ml
 * Done with updating the explanation notebook of random sampling of probability distribution functions in PyTorch.
 * Following are the probability distribution functions covered:
   * Exponential Distribution
