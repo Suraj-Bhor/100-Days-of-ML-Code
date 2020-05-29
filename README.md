@@ -481,3 +481,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 ## Day 49: 27<sup>th</sup> May 2020 : Probability distribution functions - Continued
 * Wasn't able to do much today due to some other work commitments. Still tried to do some learning about the probability functions. 
 * Learnt about the Bernoulli distribution and how it used to define other distributions such as normal distributuon, binomial distribution etc
+
+## Day 50: 28<sup>th</sup> May 2020 : Probability distribution functions - Visualizations
+* It was all about random sampling of data from various distribution.
+* Spent most of the time in reading about these distributions and trying them out in PyTorch.
+* Also, after sampling data from various distributions tried plotting the histograms of the randomly sampled data along the curves of these distributions.
