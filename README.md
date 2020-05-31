@@ -498,3 +498,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Will surely write a blog post explaining the above points.
 * Updated all the progress using the Jovian ML source code versioning system.
 * You can see the notebook [here](https://jovian.ml/suraj-bhor/assignment-1-sampling-from-different-probability-distributions-copy1).
+
+## Day 52: 30<sup>th</sup> May 2020 : Logistic Regression in PyTorch
+* Watched the week 2 video of the ZeroToGANs course provided by Jovian.ml and freeCodeCamp.
+* Understood how logistic regression model is trained to classify the hand written digits using the functions in PyTorch.
