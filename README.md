@@ -502,3 +502,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 ## Day 52: 30<sup>th</sup> May 2020 : Logistic Regression in PyTorch
 * Watched the week 2 video of the ZeroToGANs course provided by Jovian.ml and freeCodeCamp.
 * Understood how logistic regression model is trained to classify the hand written digits using the functions in PyTorch.
+
+## Day 53: 31<sup>st</sup> May 2020 : VGG-16 paper implementation
+* Started with the implementation of the VGG-16 paper using the German Traffic Sign Recognition Benchmark dataset in Kaggle.
+* Finished with the data pre-processing step and made the training data usable for the image recognition task.
+* Did all this using basic opencv and numpy arrays.
