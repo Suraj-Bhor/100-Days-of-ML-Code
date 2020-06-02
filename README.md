@@ -507,3 +507,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Started with the implementation of the VGG-16 paper using the German Traffic Sign Recognition Benchmark dataset in Kaggle.
 * Finished with the data pre-processing step and made the training data usable for the image recognition task.
 * Did all this using basic opencv and numpy arrays.
+
+## Day 54: 1<sup>st</sup> June 2020 : VGG-16 paper implementation - Continued
+* Continued on the implementation of the VGG paper in Keras.
