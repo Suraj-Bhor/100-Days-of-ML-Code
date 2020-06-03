@@ -510,3 +510,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 54: 1<sup>st</sup> June 2020 : VGG-16 paper implementation - Continued
 * Continued on the implementation of the VGG paper in Keras.
+
+## Day 55: 2<sup>nd</sup> June 2020 : VGG-16 paper implementation - Continued
+* Continued on the implementation of the VGG paper in Keras.
