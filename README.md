@@ -513,3 +513,12 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 55: 2<sup>nd</sup> June 2020 : VGG-16 paper implementation - Continued
 * Continued on the implementation of the VGG paper in Keras.
+
+## Day 56: 3<sup>rd</sup> June 2020 :Jovian ML week 2
+* Did the assignment of week 2 of the freeCodeCamp and Jovian.ml course ZeroToGANs.
+* Watched the videos of week 2 and understood various concepts and implementation of logistic regression in PyTorch.
+
+## Day 57: 4<sup>rth</sup> June 2020 :Jovian ML week 2 - Continued
+* Learnt about the PyTorch functions to make a image classifier using the logistic regression.
+* Refered this [notebook](https://jovian.ml/aakashns/03-logistic-regression).
+* Understood the concept of logistic regression for the classification task.
