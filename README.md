@@ -522,3 +522,14 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Learnt about the PyTorch functions to make a image classifier using the logistic regression.
 * Refered this [notebook](https://jovian.ml/aakashns/03-logistic-regression).
 * Understood the concept of logistic regression for the classification task.
+
+## Day 58: 5<sup>th</sup> June 2020 : Insurance cost prediction using linear classifier in PyTorch
+* Coded up a simple linear regression classifier in PyTorch for predicting the insurance cost based on the age, sex, BMI, No. of Children and smoking habit.
+* Performed following steps:
+  * Downloaded and explored the dataset. Dataset used from a past Kaggle Competition and did some EDA on it.
+  * Prepared the dataset for training which included data preprocessing and loading the cleaned data in pandas dataframes.
+  * Created a linear regression classifier in PyTorch.
+  * Trained the model to fit the data.
+  * Finally, made predictions on the trained model.
+* Learnt how soft L1 loss does while calculating the loss.
+* Here's the [notebook](https://jovian.ml/suraj-bhor/02-insurance-linear-regression) for reference.
