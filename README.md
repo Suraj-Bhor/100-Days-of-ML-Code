@@ -538,3 +538,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Had some issues regarding the accuracy of the model.
 * Considered the output label in weights of the model. So was getting very high validation accuracy.
 * Made the appropriate changes and commit them in jovian.
+
+## Day 60: 7<sup>th</sup> June 2020 : VGG-16 paper implementation
+* Continued the task of implmenting the VGG16 paper.
