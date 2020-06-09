@@ -541,3 +541,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 60: 7<sup>th</sup> June 2020 : VGG-16 paper implementation
 * Continued the task of implmenting the VGG16 paper.
+
+## Day 61: 8<sup>th</sup> June 2020 : VGG-16 paper implementation
+* Continued the task of implmenting the VGG16 paper.
