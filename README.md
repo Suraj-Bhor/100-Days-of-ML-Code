@@ -549,3 +549,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Using the German traffic sign recognition challenge dataset to classify images.
 * Pre-processing the data and trying to figure out ways to convert the images into the numpy array using both openCV and PIL.
 * Plotting the images read using matplotlib.
+
+## Day 63: 10<sup>th</sup> June 2020 : German traffic sign recognition challenge - Continued
+* Trying the VGG network on this dataset.
+* Created the model in Keras with Learning Annealer but something was wrong and the accuracy didn't go up from 6%.
+* Need to debug what went wrong, maybe the image which is 30 x 30 is losing all its content due to the 5 max-pooling layers.
