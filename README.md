@@ -544,3 +544,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 61: 8<sup>th</sup> June 2020 : VGG-16 paper implementation
 * Continued the task of implmenting the VGG16 paper.
+
+## Day 62: 9<sup>th</sup> June 2020 : German traffic sign recognition challenge
+* Using the German traffic sign recognition challenge dataset to classify images.
+* Pre-processing the data and trying to figure out ways to convert the images into the numpy array using both openCV and PIL.
+* Plotting the images read using matplotlib.
