@@ -554,3 +554,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Trying the VGG network on this dataset.
 * Created the model in Keras with Learning Annealer but something was wrong and the accuracy didn't go up from 6%.
 * Need to debug what went wrong, maybe the image which is 30 x 30 is losing all its content due to the 5 max-pooling layers.
+
+## Day 64: 11<sup>th</sup> June 2020 : German traffic sign recognition challenge - Finished
+* Got the solution to the low accuracy.
+* Issues was with the image size too small for the huge network that the image size became 1 x 1 at the last max pooling layer.
+* Shortened the network and got validation accuracy to approx. 99% and test accuracy of 96%, which is pretty good.
