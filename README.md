@@ -559,3 +559,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Got the solution to the low accuracy.
 * Issues was with the image size too small for the huge network that the image size became 1 x 1 at the last max pooling layer.
 * Shortened the network and got validation accuracy to approx. 99% and test accuracy of 96%, which is pretty good.
+
+## Day 65: 12<sup>th</sup> June 2020 : German traffic sign recognition challenge - Analysis
+* Did some analysis on the GTSR challenge.
+* Made some visualizations for the correctly and incorrectly classified classes of the images.
