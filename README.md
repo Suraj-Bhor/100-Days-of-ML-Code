@@ -569,3 +569,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Task was to classify daily images of the CIFAR 10 dataset by using a normal feedforward neural  network and see how these networks perform with the CNNs.
 * Pariticipated in the in-house Kaggle Competition hosted by Jovian.ml where we have a multi-label image classification problem for developing models capable of classifying mixed patterns of proteins in microscope images.
 * The dataset is acquired in a highly standardized way using one imaging modality (confocal microscopy). However, the dataset comprises 10 different cell types of highly different morphology, which affect the protein patterns of the different organelles. Each image can have 1 or more labels associated to them.
+
+## Day 67: 14<sup>th</sup> June 2020 : Kaggle competition continued
+* Continued with the task of submisssion for the in house Kaggle competition hosted by freeCodeCamp and Jovian.ml
