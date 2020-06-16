@@ -572,3 +572,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 67: 14<sup>th</sup> June 2020 : Kaggle competition continued
 * Continued with the task of submisssion for the in house Kaggle competition hosted by freeCodeCamp and Jovian.ml
+
+## Day 68: 15<sup>th</sup> June 2020 : Kaggle competition continued
+* Continued with the task of submisssion for the in house Kaggle competition hosted by freeCodeCamp and Jovian.ml
