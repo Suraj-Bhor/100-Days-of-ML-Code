@@ -575,3 +575,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 68: 15<sup>th</sup> June 2020 : Kaggle competition continued
 * Continued with the task of submisssion for the in house Kaggle competition hosted by freeCodeCamp and Jovian.ml
+
+## Day 69: 16<sup>th</sup> June 2020 : Kaggle competition continued
+* Finished with the implementation and documentation work of VGG16 paper.
+* Commited the changes in the DL paper implementations repo.
