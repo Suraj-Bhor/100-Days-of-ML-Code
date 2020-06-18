@@ -579,3 +579,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 ## Day 69: 16<sup>th</sup> June 2020 : VGG16 paper end
 * Finished with the implementation and documentation work of VGG16 paper.
 * Commited the changes in the DL paper implementations repo.
+
+## Day 70: 17<sup>th</sup> June 2020 : ResNet Paper
+* Started reading the resnet paper and making notes in Notion.
+* After finishing with CNNs will make the notion notes public.
