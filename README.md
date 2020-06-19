@@ -583,3 +583,7 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 ## Day 70: 17<sup>th</sup> June 2020 : ResNet Paper
 * Started reading the resnet paper and making notes in Notion.
 * After finishing with CNNs will make the notion notes public.
+
+## Day 71: 18<sup>th</sup> June 2020 : ResNet Paper - Continued day 2
+* Continue reading the resnet paper and making notes in Notion.
+* After finishing with CNNs will make the notion notes public.
