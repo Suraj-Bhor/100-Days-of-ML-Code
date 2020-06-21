@@ -592,3 +592,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Worked on the Kaggle competition for classifying the Human protein images.
 * Trying different architectures but still accuracy is not budgeing a lot.
 * Will try other different ideas.
+
+## Day 73: 20<sup>th</sup> June 2020 : In-House Kaggle Competition - Continued
+* Contiued working on the Kaggle competition for classifying the Human protein images.
