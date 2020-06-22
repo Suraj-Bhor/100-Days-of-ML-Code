@@ -595,3 +595,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 73: 20<sup>th</sup> June 2020 : In-House Kaggle Competition - Continued
 * Contiued working on the Kaggle competition for classifying the Human protein images.
+
+## Day 74: 21<sup>st</sup> June 2020 : ResNet Paper - Continued day 3
+* Continued reading the resnet paper and making notes in Notion.
