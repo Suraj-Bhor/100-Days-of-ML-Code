@@ -601,3 +601,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 75: 22<sup>nd</sup> June 2020 : ResNet Paper - Continued day 4
 * Continued reading the resnet paper and making notes in Notion.
+
+## Day 76: 23<sup>nd</sup> June 2020 : ResNet Paper - Continued day 5
+* Continued reading the resnet paper and making notes in Notion.
