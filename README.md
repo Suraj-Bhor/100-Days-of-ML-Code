@@ -604,3 +604,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 76: 23<sup>nd</sup> June 2020 : ResNet Paper - Continued day 5
 * Continued reading the resnet paper and making notes in Notion.
+
+## Day 77: 24<sup>nd</sup> June 2020 : In-House Kaggle Competition - Continued
+* Contiued working on the Kaggle competition for classifying the Human protein images.
