@@ -619,3 +619,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 81: 28<sup>th</sup> June 2020 : In-House Kaggle Competition - Continued
 * Contiued working on the Kaggle competition for classifying the Human protein images.
+
+## Day 82: 29<sup>th</sup> June 2020: Figuring out what to do next
+* Making certain changes in the plan to get more used to the practical aspects of DL/ML.
