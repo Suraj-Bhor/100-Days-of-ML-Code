@@ -622,3 +622,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 82: 29<sup>th</sup> June 2020: Figuring out what to do next
 * Making certain changes in the plan to get more used to the practical aspects of DL/ML.
+
+## Day 83: 30<sup>th</sup> June 2020: Figuring out what to do next
+* Making certain changes in the plan to get more used to the practical aspects of DL/ML.
