@@ -628,3 +628,6 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 
 ## Day 84: 1<sup>st</sup> July 2020: In-House Kaggle Competition - Continued
 * Contiued working on the Kaggle competition for classifying the Human protein images.
+
+## Day 85: 2<sup>nd</sup> July 2020: In-House Kaggle Competition - Continued
+* Contiued working on the Kaggle competition for classifying the Human protein images.
