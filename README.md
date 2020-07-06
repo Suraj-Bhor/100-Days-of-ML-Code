@@ -636,3 +636,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Had some issues regarding the accuracy of the model.
 * Considered the output label in weights of the model. So was getting very high validation accuracy.
 * Made the appropriate changes and commit them in jovian.
+
+## Day 87: 4<sup>th</sup> June 2020 : Insurance cost prediction in PyTorch - Continued
+* Had some issues regarding the accuracy of the model.
+* Considered the output label in weights of the model. So was getting very high validation accuracy.
+* Made the appropriate changes and commit them in jovian.
