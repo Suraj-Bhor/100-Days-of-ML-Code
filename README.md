@@ -632,12 +632,17 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 ## Day 85: 2<sup>nd</sup> July 2020: In-House Kaggle Competition - Continued
 * Contiued working on the Kaggle competition for classifying the Human protein images.
 
-## Day 86: 3<sup>rd</sup> June 2020 : Insurance cost prediction in PyTorch.
+## Day 86: 3<sup>rd</sup> July 2020 : Insurance cost prediction in PyTorch.
 * Had some issues regarding the accuracy of the model.
 * Considered the output label in weights of the model. So was getting very high validation accuracy.
 * Made the appropriate changes and commit them in jovian.
 
-## Day 87: 4<sup>th</sup> June 2020 : Insurance cost prediction in PyTorch - Continued
+## Day 87: 4<sup>th</sup> July 2020 : Insurance cost prediction in PyTorch - Continued
+* Had some issues regarding the accuracy of the model.
+* Considered the output label in weights of the model. So was getting very high validation accuracy.
+* Made the appropriate changes and commit them in jovian.
+
+## Day 88: 5<sup>th</sup> July 2020 : Insurance cost prediction in PyTorch - Continued
 * Had some issues regarding the accuracy of the model.
 * Considered the output label in weights of the model. So was getting very high validation accuracy.
 * Made the appropriate changes and commit them in jovian.
