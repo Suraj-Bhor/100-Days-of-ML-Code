@@ -646,3 +646,8 @@ https://www.coursera.org/account/accomplishments/certificate/68RWFYXRUZZ2).
 * Had some issues regarding the accuracy of the model.
 * Considered the output label in weights of the model. So was getting very high validation accuracy.
 * Made the appropriate changes and commit them in jovian.
+
+## 6<sup>th</sup> July 2020 to 12<sup>th</sup> July 2020 : No tasks
+* Did nothing because was swamped with office work.
+
+
